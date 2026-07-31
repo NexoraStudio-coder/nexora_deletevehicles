@@ -20,7 +20,7 @@ Un script gratuito, altamente optimizado y completamente configurable que elimin
 
 
 
-🎥 **[O ver en YouTube](https://www.youtube.com/watch?v=IYnTqGU4HlE)**
+🎥 **[YouTube Link](https://www.youtube.com/watch?v=IYnTqGU4HlE)**
 
 ---
 
@@ -54,6 +54,7 @@ Config.AutoCleanInterval = 30    -- Intervalo de limpieza automática (segundos)
 Este es un recurso gratuito de **Nexora Studio**. Si te gusta la calidad de nuestro código y el diseño de nuestras interfaces, te invitamos a revisar nuestros scripts premium para llevar tu servidor de ESX al siguiente nivel:
 
 🛒 **[Visita nuestra tienda Tebex aquí](https://tienda.nexorastudio.me)**
+🤖 **[Discord Nexora](https://discord.gg/VqxFZdztUp)**
 
 ### 🔥 Productos Destacados en nuestra Tienda:
 * 🚘 **Nexora Automotive Bundle (¡Ahorra más del 20%!)**
