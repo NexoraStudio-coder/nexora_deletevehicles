@@ -44,7 +44,7 @@ Config.CommandName = 'cleanveh'  -- Comando manual
 Config.CountdownTime = 30        -- Duración del aviso visual (segundos)
 
 Config.AutoClean = true          -- ¿Activar limpieza automática?
-Config.AutoCleanInterval = 30    -- Intervalo de limpieza automática (segundos)
+Config.AutoCleanInterval = 30    -- Intervalo de limpieza automática (minutos)
 ```
 
 ---
