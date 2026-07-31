@@ -16,9 +16,11 @@ Un script gratuito, altamente optimizado y completamente configurable que elimin
 
 ## 📸 Demostración Visual
 
-<img width="692" height="388" alt="Nexora Delete Vehicles (1) (1)" src="https://github.com/user-attachments/assets/d856788b-9153-4d0d-bef9-3a457f9a59cd" />
+<img width="692" height="388" alt="Nexora Delete Vehicles 2 (1) (1)" src="https://github.com/user-attachments/assets/7fca75dc-b5f4-40f7-927a-c851d9b26421" />
 
 
+
+🎥 **[O ver en YouTube](https://www.youtube.com/watch?v=IYnTqGU4HlE)**
 
 ---
 
